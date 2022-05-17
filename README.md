@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! My name is Shreyas Patil👋</h1>
-<h3 align="center">A passionate learner of new tech</h3>
+<h3 align="center">A passionate learner of new Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas1903&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas1903" /> </p>
 
