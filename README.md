@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shreyaspatil1901@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6250781eea6517a7aab0952c](https://app.luminpdf.com/viewer/6250781eea6517a7aab0952c)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y9vMCI-AovskT6jOZr1x0nMCDIGpEDIx/view?usp=sharing](https://drive.google.com/file/d/1Y9vMCI-AovskT6jOZr1x0nMCDIGpEDIx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
