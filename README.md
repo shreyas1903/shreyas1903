@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shreyaspatil1901@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y9vMCI-AovskT6jOZr1x0nMCDIGpEDIx/view?usp=sharing](https://drive.google.com/file/d/1Y9vMCI-AovskT6jOZr1x0nMCDIGpEDIx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qCYB8kZk9c9qbWTxXQkPujveph1BWkNx/view?usp=sharing](My Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
