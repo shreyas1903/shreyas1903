@@ -22,7 +22,7 @@
 ![snake gif](https://github.com/shreyas1903/shreyas1903/blob/output/github-contribution-grid-snake.svg)
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyas1903&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1903&show_icons=true&locale=en&layout=compact" alt="shreyas1903" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1903&show_icons=true&locale=en&layout=compact" alt="shreyas1903"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas1903&show_icons=true&locale=en" alt="shreyas1903" /></p>
 
