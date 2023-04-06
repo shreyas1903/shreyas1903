@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shreyaspatil1901@gmail.com**
 
-- 📄 Know about my work: [https://drive.google.com/file/d/1jQjSwx2tFJ3OaXLKMWTWZ18z7pq8-gXp/view?usp=sharing](https://drive.google.com/file/d/1jQjSwx2tFJ3OaXLKMWTWZ18z7pq8-gXp/view?usp=sharing)
+- 📄 Know about my work: [https://drive.google.com/file/d/1r7HJidKuGs_1TA1mwqp7c0aCMuqP3Zx6/view](https://drive.google.com/file/d/1r7HJidKuGs_1TA1mwqp7c0aCMuqP3Zx6/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
