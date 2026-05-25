@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | Agentic AI Systems | LLM Evaluation | RAG Pipelines | MS CS @ GMU</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyas-vinayak-patil" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyas-vinayak-patil-39719a212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://shreyas1903.github.io" target="_blank">
@@ -46,16 +46,19 @@ I'm an AI/ML Engineer specializing in production agentic AI systems, LLM evaluat
 ### Featured Projects
 
 🤖 **[Perry — DC Permit RAG Chatbot](http://perry-alb-1208806327.us-east-1.elb.amazonaws.com/)**
-Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS ECS Fargate.
+Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS.
 
-🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/Varshini-Kashyap/ConnectEd)**
-Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring and multi-criteria decision analysis.
+🧠 **[NLBot — Agentic Voice Robot Planner](https://drive.google.com/file/d/1Li48Huq2sG-knTbYv8Z4LDmBLIIuX8AV/view)**
+Agentic human-robot system where a Claude Sonnet planning agent decomposes voice commands into structured JSON task plans with human-in-the-loop approval and hallucination mitigation.
 
 📐 **[Architectural Document Analysis with LLMs](https://drive.google.com/file/d/1vudg2xhu6MK-SfRGsiX3eloc0yD0DIsb/view?usp=sharing)**
-Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 on document type classification and SUS usability score of 74.3.
+Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 and SUS usability score of 74.3.
 
-📊 **[Nutrition Detection During Gestation — Published Research](http://www.ijlrem.org/vol7-issue4.php)**
-Published ML study advancing fetal health classification from 62% to 92.7% accuracy by benchmarking Random Forest, KNN, SVM, and Logistic Regression across 638 patient records. IJLREM Vol. 07, Oct 2023.
+🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/Varshini-Kashyap/ConnectEd)**
+Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring.
+
+📊 **[Multi-Class Obesity Risk Prediction](http://www.ijlrem.org/vol7-issue4.php)**
+ML classification system comparing XGBoost (98.5%), Random Forest (98.4%), Decision Tree (96.9%), SVM (94.6%) with SHAP explainability analysis.
 
 ---
 
@@ -75,6 +78,7 @@ Published ML study advancing fetal health classification from 62% to 92.7% accur
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-000000?style=flat&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -87,8 +91,8 @@ Published ML study advancing fetal health classification from 62% to 92.7% accur
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas1903&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1903&layout=compact&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas1903&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1903&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%"/>
 </p>
 
 ---
