@@ -54,7 +54,7 @@ Agentic human-robot system where a Claude Sonnet planning agent decomposes voice
 📐 **[Architectural Document Analysis with LLMs](https://drive.google.com/file/d/1vudg2xhu6MK-SfRGsiX3eloc0yD0DIsb/view?usp=sharing)**
 Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 and SUS usability score of 74.3.
 
-🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/Varshini-Kashyap/ConnectEd)**
+🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/shreyas1903/ConnectEd-GMU-AI-Student-Connection-Platform-)**
 Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring.
 
 📊 **[Multi-Class Obesity Risk Prediction](http://www.ijlrem.org/vol7-issue4.php)**
