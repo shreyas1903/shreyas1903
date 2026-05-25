@@ -45,20 +45,17 @@ I'm an AI/ML Engineer specializing in production agentic AI systems, LLM evaluat
 
 ### Featured Projects
 
-🤖 **[Perry — DC Permit RAG Chatbot](https://github.com/shreyas1903/perry-chatbot)**
-Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS.
+🤖 **[Perry — DC Permit RAG Chatbot](http://perry-alb-1208806327.us-east-1.elb.amazonaws.com/)**
+Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS ECS Fargate.
 
-🧠 **[NLBot — Agentic Voice Robot Planner](https://github.com/shreyas1903/nlbot)**
-Agentic human-robot system where a Claude Sonnet planning agent decomposes voice commands into structured JSON task plans with human-in-the-loop approval and hallucination mitigation.
+🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/Varshini-Kashyap/ConnectEd)**
+Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring and multi-criteria decision analysis.
 
-📐 **[Architectural Document Analysis with LLMs](https://github.com/shreyas1903/arch-doc-analysis)**
-Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 and SUS usability score of 74.3.
+📐 **[Architectural Document Analysis with LLMs](https://drive.google.com/file/d/1vudg2xhu6MK-SfRGsiX3eloc0yD0DIsb/view?usp=sharing)**
+Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 on document type classification and SUS usability score of 74.3.
 
-🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/shreyas1903/connected)**
-Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring.
-
-📊 **[Multi-Class Obesity Risk Prediction](https://github.com/shreyas1903/obesity-prediction)**
-ML classification system comparing XGBoost (98.5%), Random Forest (98.4%), Decision Tree (96.9%), SVM (94.6%) with SHAP explainability analysis.
+📊 **[Nutrition Detection During Gestation — Published Research](http://www.ijlrem.org/vol7-issue4.php)**
+Published ML study advancing fetal health classification from 62% to 92.7% accuracy by benchmarking Random Forest, KNN, SVM, and Logistic Regression across 638 patient records. IJLREM Vol. 07, Oct 2023.
 
 ---
 
