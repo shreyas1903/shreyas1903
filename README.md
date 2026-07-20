@@ -99,15 +99,6 @@ ML classification system comparing XGBoost (98.5%), Random Forest (98.4%), Decis
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas1903&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1903&layout=compact&theme=dark&hide_border=true&count_private=true" width="48%"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyas1903&color=0e75b6&style=flat"/>
 </p>
