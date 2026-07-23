@@ -52,22 +52,22 @@ I'm an AI/ML Engineer specializing in production agentic AI systems, LLM evaluat
 🤖 **[Perry — DC Permit RAG Chatbot](http://perry-alb-1208806327.us-east-1.elb.amazonaws.com/)**
 Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS.
 
-🧬 **[AST-Grep Agentic Code Analysis Platform](https://github.com/shreyas1903/ast-grep)**
+**[AST-Grep Agentic Code Analysis Platform](https://github.com/shreyas1903/ast-grep)**
 Multi-agent code analysis system converting plain-English design rules into executable AST patterns across 20+ languages. Fine-tuned Qwen2.5-Coder-7B via LoRA on MLX, achieving 86% syntax validity through an automated verify-and-retry loop.
 
-🧠 **[NLBot — Agentic Voice Robot Planner](https://drive.google.com/file/d/1Li48Huq2sG-knTbYv8Z4LDmBLIIuX8AV/view)**
+**[NLBot — Agentic Voice Robot Planner](https://drive.google.com/file/d/1Li48Huq2sG-knTbYv8Z4LDmBLIIuX8AV/view)**
 Agentic human-robot system where a Claude Sonnet planning agent decomposes voice commands into structured JSON task plans with human-in-the-loop approval and hallucination mitigation.
 
-📐 **[Architectural Document Analysis with LLMs](https://drive.google.com/file/d/1vudg2xhu6MK-SfRGsiX3eloc0yD0DIsb/view?usp=sharing)**
+**[Architectural Document Analysis with LLMs](https://drive.google.com/file/d/1vudg2xhu6MK-SfRGsiX3eloc0yD0DIsb/view?usp=sharing)**
 Multimodal agentic system combining LLaVA 7B and Llama 3.2 for architectural drawing analysis. Achieved F1=0.82 and SUS usability score of 74.3.
 
-🎓 **[ConnectEd — AI Student Mentor Platform](https://github.com/shreyas1903/ConnectEd-GMU-AI-Student-Connection-Platform-)**
+**[ConnectEd — AI Student Mentor Platform](https://github.com/shreyas1903/ConnectEd-GMU-AI-Student-Connection-Platform-)**
 Agentic mentor matching system using Groq Llama 3.1 70B achieving 100% successful pairing rate through semantic similarity scoring.
 
-🔀 **[LiteLLM — Open Source Contribution](https://github.com/BerriAI/litellm)**
+**[LiteLLM — Open Source Contribution](https://github.com/BerriAI/litellm)**
 Merged PR #31574 to LiteLLM, the unified LLM gateway (34K+ GitHub stars) used by NASA, Adobe, Rocket Money, and Samsara.
 
-📊 **[Multi-Class Obesity Risk Prediction](http://www.ijlrem.org/vol7-issue4.php)**
+**[Multi-Class Obesity Risk Prediction](http://www.ijlrem.org/vol7-issue4.php)**
 ML classification system comparing XGBoost (98.5%), Random Forest (98.4%), Decision Tree (96.9%), SVM (94.6%) with SHAP explainability analysis.
 
 ---
