@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreyas Patil 👋</h1>
+<h1 align="center">Hi, I'm Shreyas Vinayak Patil 👋</h1>
 <h3 align="center">AI/ML Engineer | Agentic AI Systems | LLM Evaluation | RAG Pipelines | MS CS @ GMU</h3>
 
 <p align="center">
