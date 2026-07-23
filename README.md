@@ -49,7 +49,7 @@ I'm an AI/ML Engineer specializing in production agentic AI systems, LLM evaluat
 
 ### Featured Projects
 
-🤖 **[Perry — DC Permit RAG Chatbot](http://perry-alb-1208806327.us-east-1.elb.amazonaws.com/)**
+**[Perry — DC Permit RAG Chatbot](http://perry-alb-1208806327.us-east-1.elb.amazonaws.com/)**
 Production RAG-powered permitting chatbot serving 88+ DC permit documents at sub-3s latency. Built with Claude API, LlamaIndex, ChromaDB, Flask, and AWS.
 
 **[AST-Grep Agentic Code Analysis Platform](https://github.com/shreyas1903/ast-grep)**
